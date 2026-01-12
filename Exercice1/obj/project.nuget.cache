@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Qjp5ZBauio=",
+  "success": true,
+  "projectFilePath": "/Users/jugurtha/Documents/M2/S1/Microsoft/Examen_Cyber_M2_S1/Exercice1/Exercice1.csproj",
+  "expectedPackageFiles": [
+    "/Users/jugurtha/.nuget/packages/microsoft.aspnetcore.openapi/9.0.11/microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "/Users/jugurtha/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@Examen_Cyber_M2_S1_HostAddress = http://localhost:5268
+
+GET {{Examen_Cyber_M2_S1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
