@@ -1,0 +1,28 @@
+# JetBrains IDE
+.idea/
+
+# Rider/ReSharper
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build outputs
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Test results
+TestResults/
+
+# Dotnet local tools
+.dotnet/
+
+# Logs
+*.log
+
